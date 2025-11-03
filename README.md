@@ -8,9 +8,9 @@ Download the .cdl.md file and upload it to your favorite LLM, or use it to creat
 
 ## make a CDL framework:
 
-CDL frameworks utilize prompt/context engineering, programming structures (such as tags, functions, if statements and so on), and can include datasets. Here is a sample:
+CDL frameworks utilize prompt/context engineering, programming structures (such as tags, functions, if statements and so on), and can include datasets. Here is a sample (look at "code" to fully grasp):
 
-`[^persona prompt]: you are an LLM helping me out.
+[^persona prompt]: you are an LLM helping me out.
 [^contextual prompt]: This is a sample not to actually be run.
 [^conditional prompt]: If and only if the user prompts you with P, respond with Q.
 
@@ -35,4 +35,8 @@ CDL frameworks utilize prompt/context engineering, programming structures (such 
 2. [style]: moon man
 3. [special move]: not what you think
 [^functional prompt]: if and only if this entry is prompted, do the following:
-1. tell them they are a liar.'
+1. tell them they are a liar.
+
+---
+
+Save the file as a .cdl.md as the structure is effectively markdown, but saved as a cdl we can confirm what is actually being fed into the LLM.
