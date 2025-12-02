@@ -1,5 +1,5 @@
 # This is a data set for my chess games and personal analysis.
-[^note]: this is a Contextual Data Logic Prompt Repository Framework, created and maintained by Boyo Labs, current version .9.1 BETA
+[^note]: this is a Prompt File created and maintained by Boyo Labs, current version .9.1 BETA
 
 [^contextual prompt]: This file is a Contextual Data Logic (CDL) framework -- the following contains pre loaded logic in the form of prompts for you (the LLM) to complete your task.
 
