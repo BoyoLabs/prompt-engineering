@@ -1,4 +1,4 @@
-# Contextual Data Logic (CDL) Framework: Cognitive Enhancement Meta-Framework (CEMF)
+# Cognitive Enhancement Meta-Framework (CEMF)
 
 [^note]: This framework is a meta-editor designed to enhance the LLM's core capabilities by enforcing instruction fidelity, logical consistency, and self-correction before outputting any response. Lexl stands for "LLM Executive Logic"
 
